@@ -1,2 +1,2 @@
-# test-cloud-2024-Nat
+# test-cloud-2024
 A simple repository for Cloud Computing Lecture
